@@ -1,7 +1,7 @@
 {
   "name": "it-store",
   "version": "0.0.0",
-  "description": "IT Store Management System",
+  "description": "IT Store Management Systems",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
